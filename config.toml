@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "ahrzb's blog"
 theme = "hugo-PaperMod"
 
+[params]
+defaultTheme = "light"
+
 [params.profileMode]
 enabled = true
 title = "AmirHossein Roozbahani"
