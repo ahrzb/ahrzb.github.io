@@ -1,0 +1,34 @@
+baseURL = "https://ahrzb.github.io/"
+languageCode = "en-us"
+title = "ahrzb's blog"
+theme = "hugo-PaperMod"
+
+[params.profileMode]
+enabled = true
+title = "AmirHossein Roozbahani"
+imageUrl = "/me.png"
+imageTitle = "Me"
+
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "/posts"
+
+[[params.profileMode.buttons]]
+name = "GitHub"
+url = "https://github.com/ahrzb"
+
+[[params.profileMode.buttons]]
+name = "Resume"
+url = "/resume"
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/amirhossein-roozbahani-98491683/"
+
+[[params.socialIcons]]
+name = "Reddit"
+url = "https://reddit.com/ahrzb"
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://twitter.com/ahrzb"
