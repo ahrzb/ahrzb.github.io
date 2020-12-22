@@ -13,9 +13,13 @@
       <pubDate>Sun, 20 Dec 2020 00:17:00 +0330</pubDate>
       
       <guid>https://ahrzb.github.io/resume/</guid>
-      <description>AmirHossein Roozbahani More about me [ ahrzb.github.io ] . [ ahrzb5@gmail.com ] . [ +98 919 951 9512 ] Education M.Sc. in Computer Science, Artifical Intelligence (2018-present)
-B.S. in Computer Science, AmirKabir University Of Technology (2013-2018)
-Experience Skills </description>
+      <description>AmirHossein Roozbahani   [ ahrzb.github.io ] . [ ahrzb5@gmail.com ] . [ +98 919 951 9512 ]
+More about me&amp;hellip;
+  Experience Sotoon: [2019-present]
+sotoon.ir is a ???
+At Sotoon Voice team, ???
+My notable contributions:
+ Implementing out base ASR pipeline in Kaldi/C++ API. Productionizing various deep learning models on GPU/CPU based deployments. Design and implemnetation of grapheme to phoneme pipeline. Development/Expermentation with various TTS architectures.  Divar [2018-2019]</description>
     </item>
     
     <item>
