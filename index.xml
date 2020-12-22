@@ -5,6 +5,27 @@
     <link>https://ahrzb.github.io/</link>
     <description>Recent content on ahrzb&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ahrzb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 00:17:00 +0330</lastBuildDate><atom:link href="https://ahrzb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ahrzb&#39;s resume</title>
+      <link>https://ahrzb.github.io/resume/</link>
+      <pubDate>Sun, 20 Dec 2020 00:17:00 +0330</pubDate>
+      
+      <guid>https://ahrzb.github.io/resume/</guid>
+      <description>AmirHossein Roozbahani More about me [ ahrzb.github.io ] . [ ahrzb5@gmail.com ] . [ +98 919 951 9512 ] Education M.Sc. in Computer Science, Artifical Intelligence (2018-present)
+B.S. in Computer Science, AmirKabir University Of Technology (2013-2018)
+Experience Skills </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://ahrzb.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 20 Dec 2020 00:17:00 +0330</pubDate>
+      
+      <guid>https://ahrzb.github.io/posts/my-first-post/</guid>
+      <description>Hello, World! Today I am setting up my hugo blog. I look forward to it.</description>
+    </item>
+    
   </channel>
 </rss>
